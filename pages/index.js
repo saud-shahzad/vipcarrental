@@ -84,6 +84,63 @@ Berlines facilité de stationnement
       </p>
                  <p className="description">
 La situation en matière de stationnement est excellente à Dubaï, avec de nombreuses aires de stationnement de différents types disponibles partout. Chaque aire est affectée à une zone et une catégorie (1 ou 2). Les conducteurs doivent connaître la catégorie pour payer correctement. Tous les parkings sont équipés de machines acceptant les pièces et imprimant des tickets à épingler sur le pare-brise.      </p>
+     
+                     <p className="description">
+      Location de voitures de luxe
+ </p>
+
+                     <p className="description">
+      Que vous recherchiez une location de supercars haut de gamme comme Rolls Royce, Ferrari, Bentley ou Lamborghini, ou des SUV de luxe comme Mercedes-Benz ou Range Rover, Octane Rent a ce qu'il vous faut. Ces marques prestigieuses sont synonymes de performances exceptionnelles, de raffinement intérieur et d'une conduite incomparable. Avec leurs moteurs puissants, leurs finitions haut de gamme et leurs technologies de pointe, ces véhicules offrent une expérience de conduite inoubliable.
+ </p>
+
+                           <p className="description">
+      Voitures de luxe services exclusifs
+ </p>
+
+                           <p className="description">
+      Chez Octane Rent, nous comprenons l'importance de rendre votre expérience de location aussi agréable que possible. C'est pourquoi nous proposons des options de location personnalisées, adaptées à vos besoins spécifiques. Nos clients bénéficient également d'une assurance automobile complète pour une sécurité optimale. De plus, nos processus de location et de signature de contrat sont simplifiés pour vous faire gagner un temps précieux.
+ </p>
+
+                           <p className="description">
+      Voitures de luxe expérience VIP
+ </p>
+
+                           <p className="description">
+      Louer une voiture de luxe avec Octane Rent, c'est bien plus qu'un simple véhicule. C'est une expérience VIP complète, où chaque détail est soigneusement pris en compte pour votre confort et votre satisfaction. Notre équipe dévouée est toujours disponible pour répondre à vos questions et résoudre vos problèmes. Nous nous chargeons des aspects pratiques comme l'assurance, le ravitaillement en carburant et le nettoyage, pour que vous puissiez vous concentrer sur le plaisir de la conduite.
+
+Nos normes strictes en matière d'entretien garantissent que chaque véhicule est en parfait état technique, avec un intérieur impeccable et le plein de carburant. De plus, nos tarifs compétitifs, avec des réductions pour les locations hebdomadaires ou mensuelles, font de nous le choix idéal pour une expérience de luxe abordable à Dubaï.
+      
+ </p>
+
+                           <p className="description">
+      Location longue durée
+ </p>
+                                 <p className="description">
+      La location de voiture à long terme à Dubaï offre de nombreux avantages pour les voyageurs qui prévoient un séjour prolongé. Voici les principaux attraits de cette option :
+ </p>
+
+                                       <p className="description">
+Longue durée tarifs dégressifs
+       </p>
+
+                                           <p className="description">
+      Un des principaux avantages de la location longue durée est l'économie réalisée grâce aux tarifs dégressifs. Plus la période de location est longue, plus le coût journalier diminue. Cela rend cette option beaucoup plus abordable que la location à la journée ou à la semaine, surtout pour des séjours d'un mois ou plus.
+       </p>
+
+                                                 <p className="description">
+      Longue durée flexibilité du contrat
+       </p>
+                                                 <p className="description">
+      La location longue durée offre une grande flexibilité en termes de durée de location. Que vous ayez besoin d'une voiture pour un mois, plusieurs mois ou même un an, les sociétés de location proposent des contrats adaptés à vos besoins spécifiques sans engagement à long terme.
+       </p>
+                                                 <p className="description">
+      Longue durée services inclus
+       </p>
+                                                 <p className="description">
+      De nombreuses sociétés de location longue durée incluent des services supplémentaires dans leurs forfaits, tels que l'entretien du véhicule et l'assurance. Cela vous évite les tracas liés à la possession d'un véhicule et les coûts imprévus. Vous bénéficiez ainsi d'une expérience sans souci pour un prix avantageux.
+
+La location de voiture au mois à Dubaï est idéale pour les professionnels en contrat court terme, les familles en vacances prolongées ou toute personne ayant besoin d'un véhicule pour une période prolongée sans s'engager dans un achat. Grâce aux économies réalisées, à la flexibilité offerte et aux services inclus, c'est une solution pratique et rentable pour profiter pleinement de votre séjour à Dubaï.
+       </p>
       </main>
 
       <Footer />
