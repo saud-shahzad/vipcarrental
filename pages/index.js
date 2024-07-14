@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
     <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
-        <title>Next.js Starter!</title>
+        <title>Location Voiture Dubai : Explorez la Ville en Toute Liberté</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
