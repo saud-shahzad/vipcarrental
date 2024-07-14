@@ -18,7 +18,6 @@ export default function Home() {
 Cet article dévoile les meilleures offres de location de voiture à Dubaï, des SUV robutes pour les escapades dans le désert, aux berlines élégantes pour sillonner la ville, en passant par des voitures de luxe pour une expérience inoubliable. Les options de location longue durée, location avec chauffeur, et les conseils pour bénéficier d'une location voiture Dubai aéroport vous seront également présentés. Que vous cherchiez une location voiture Dubai luxe ou une option plus économique, des comparaisons de prix aux conseils pour un conducteur additionnel, ce guide couvre tout ce dont vous avez besoin pour votre prochain voyage à Dubaï.
         </p>
 
-    <h2>Location de SUV pour le désert<h2>
       </main>
 
       <Footer />
